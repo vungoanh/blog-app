@@ -98,7 +98,7 @@ Want to get up and running quickly? Follow these steps:
 - [Clone the repository](https://github.com/vungoanh/blog-app.git) it to your local device.
 
   ```sh
-  git clone https://github.com/timtbdev/Next.js-Blog-App.git
+  git clone https://github.com/vungoanh/blog-app.git
   ```
 
 - Set up your [Supabase Database](https://supabase.com/docs/guides/database) and Auth wit with [Social Logins](https://supabase.com/docs/guides/auth/social-login)
@@ -121,6 +121,7 @@ Admin dashboard will also be available on http://localhost:300/editor/posts
 ## Contributing
 
 - [Start a discussion](https://vu93.vercel.app) with a question, piece of feedback, or idea you want to share with me.
+- [Open an issue](https://github.com/vungoanh/blog-app/issues) if you believe you've encountered a bug with the starter kit.
 
 
 ## License
