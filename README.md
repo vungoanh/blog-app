@@ -120,8 +120,7 @@ Admin dashboard will also be available on http://localhost:300/editor/posts
 
 ## Contributing
 
-- [Start a discussion](https://timtb.dev/contact) with a question, piece of feedback, or idea you want to share with me.
-- [Open an issue](https://github.com/timtbdev/Next.js-Blog-App/issues) if you believe you've encountered a bug with the starter kit.
+- [Start a discussion](https://vu93.vercel.app) with a question, piece of feedback, or idea you want to share with me.
 
 
 ## License
