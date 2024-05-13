@@ -41,7 +41,7 @@ const mainFooterConfig: FooterType = {
     },
     {
       name: "Github",
-      url: "https://github.com/timtbdev",
+      url: "https://github.com/vungoanh",
       icon: GithubIcon,
     },
     {
@@ -51,7 +51,7 @@ const mainFooterConfig: FooterType = {
     },
     {
       name: "Twitter",
-      url: "https://twitter.com/timtbdev",
+      url: "https://twitter.com/",
       icon: TwitterIcon,
     },
     {
