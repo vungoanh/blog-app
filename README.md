@@ -95,7 +95,7 @@ To run this app locally you need
 
 Want to get up and running quickly? Follow these steps:
 
-- [Clone the repository](https://help.github.com/articles/cloning-a-repository/) it to your local device.
+- [Clone the repository](https://github.com/vungoanh/blog-app.git) it to your local device.
 
   ```sh
   git clone https://github.com/timtbdev/Next.js-Blog-App.git
